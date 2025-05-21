@@ -904,6 +904,7 @@ input, textarea {
   border: none;
   outline: none;
   background-color: #333;
+  color: #ebe3e3;
 }
 
 .submit-btn {
